@@ -1,2 +1,4 @@
 # superBlog
-Un blog en html y CSS super basico  y rapido
+Un blog para practicar desarrollo web.
+
+@dubanrg
